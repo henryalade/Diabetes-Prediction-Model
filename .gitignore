@@ -1,0 +1,7 @@
+# python cache files
+__pyche__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
